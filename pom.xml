@@ -51,12 +51,14 @@
             <artifactId>commons-dbcp</artifactId>
             <version>1.4</version>
         </dependency>
+
         <!-- JSON 转换器 -->
         <dependency>
             <groupId>org.codehaus.jackson</groupId>
             <artifactId>jackson-mapper-asl</artifactId>
             <version>1.5.3</version>
         </dependency>
+
         <!-- XML 转换器 -->
         <dependency>
             <groupId>javax.xml.bind</groupId>
