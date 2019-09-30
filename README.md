@@ -1,7 +1,20 @@
 # springmvc-velocity-demo
 
 
-本示例已升级到Spring Boot 2.x，源码地址：https://github.com/smltq/spring-boot-demo/tree/master/template-thymeleaf
+
+
+
+本示例已升级到Spring Boot 2.x
+
+源码地址：https://github.com/smltq/spring-boot-demo/tree/master/template-thymeleaf
+
+
+
+
+
+
+
+
 
 
 # 国际化介绍
