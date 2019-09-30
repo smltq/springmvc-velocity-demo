@@ -1,5 +1,9 @@
 # springmvc-velocity-demo
 
+
+本示例已升级到Spring Boot 2.x，源码地址：https://github.com/smltq/spring-boot-demo/tree/master/template-thymeleaf
+
+
 # 国际化介绍
 
 web开发中,国际化是需要考虑的一个问题,而且这个问题一般是越早敲定越好(不然等到系统大了,翻译是个问题).下面是结合实际项目(Spring MVC+Velocity)对实现国际化的一些总结.
